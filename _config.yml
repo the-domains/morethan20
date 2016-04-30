@@ -1,0 +1,28 @@
+name: morethan20
+favicon: null
+layout_spectrum: 0.5148511477746069
+typography_spectrum: 0.7207795511931181
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7945643723942339
+  lightness: 0.036919469479471445
+  saturation: 0.7241234416142106
+  rhythmicContrast: 0.9134783786721528
+purpose: []
